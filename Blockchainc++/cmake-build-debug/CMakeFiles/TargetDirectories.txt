@@ -1,0 +1,3 @@
+C:/Users/adeog/Documents/GitHub/C---Projects/Blockchainc++/cmake-build-debug/CMakeFiles/Blockchainc__.dir
+C:/Users/adeog/Documents/GitHub/C---Projects/Blockchainc++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adeog/Documents/GitHub/C---Projects/Blockchainc++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
